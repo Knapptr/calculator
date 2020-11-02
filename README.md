@@ -13,3 +13,4 @@ I had made a calculator app before, with really clumsy calculation logic. By str
 - Button Grid could be refactored for less repitition.
 - Needs more layout work.
 - Testing of component/button logic
+- keyboard implementation

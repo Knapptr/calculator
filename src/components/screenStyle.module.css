@@ -1,0 +1,8 @@
+.screen {
+  width: 90%;
+  background-color: rgb(167, 167, 167);
+  text-align: right;
+}
+.off {
+  visibility: hidden;
+}

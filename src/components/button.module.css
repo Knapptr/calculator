@@ -1,0 +1,30 @@
+.button {
+  border-radius: 50%;
+  border: 1px solid black;
+  min-width: 40px;
+  min-height: 40px;
+  margin: 4px;
+  color: white;
+}
+.button:hover {
+  background-color: hotpink;
+}
+.black {
+  background-color: rgb(43, 43, 43);
+}
+.brown {
+  background-color: brown;
+}
+.yellow {
+  background-color: yellow;
+  color: black;
+}
+.green {
+  background-color: green;
+}
+.powerGreen {
+  background-color: greenyellow;
+}
+.powerRed {
+  background-color: red;
+}

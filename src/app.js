@@ -261,7 +261,6 @@ const App = () => {
           </div>
         </div>
       </CalculatorBody>
-      >
     </Layout>
   );
 };

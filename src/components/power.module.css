@@ -1,0 +1,15 @@
+.frame {
+  margin: 10px 0;
+  width: 100%;
+  display: flex;
+}
+.volume {
+  cursor: pointer;
+  position: relative;
+  color: white;
+}
+.volumeDiv {
+  font-size: 10px;
+  margin: 0;
+  padding: 0;
+}

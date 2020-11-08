@@ -1,5 +1,6 @@
 html {
   box-sizing: border-box;
+  background-color: rgb(214, 214, 214);
 }
 .col {
   height: 100%;
@@ -29,4 +30,10 @@ html {
   height: 1px;
   background-color: black;
   border: 1px solid black;
+}
+.powerIcon {
+  color: white;
+}
+.footerText {
+  margin: 10px;
 }

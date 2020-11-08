@@ -1,7 +1,15 @@
 .screen {
-  width: 90%;
+  box-sizing: border-box;
+  width: 100%;
   background-color: rgb(167, 167, 167);
   text-align: right;
+  padding: 10px;
+  font-family: VT323;
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin: 10px auto 30px auto;
+  border: 10px inset grey;
+  border-radius: 2%;
 }
 .off {
   visibility: hidden;

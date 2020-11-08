@@ -12,7 +12,7 @@ const Button = (props) => {
       }
       className={`${props.className ? props.className : ""} ${
         props.color ? buttonStyle[props.color] : ""
-      } ${buttonStyle.button}`}
+      } ${buttonStyle.button} ${props.small ? buttonStyle.small : ""}`}
     >
       {props.contents}
     </button>
